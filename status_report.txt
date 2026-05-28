@@ -1,0 +1,3 @@
+Project Status: Active
+Pending Tasks: 3
+Completed Tasks: 2
