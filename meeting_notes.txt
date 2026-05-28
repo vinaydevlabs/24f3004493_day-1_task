@@ -1,0 +1,4 @@
+Discussion Topics:
+- Git workflow
+- Branch handling
+- Conflict resolution
