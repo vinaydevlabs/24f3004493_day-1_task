@@ -2,3 +2,5 @@
 2. Learn branching
 3. Practice merge
 4. Push repository to GitHub
+5. Practice git restore
+6. Learn git log graph
