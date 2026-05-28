@@ -1,0 +1,4 @@
+1. Complete Git setup
+2. Learn branching
+3. Practice merge
+4. Push repository to GitHub
